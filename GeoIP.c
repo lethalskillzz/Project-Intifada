@@ -196,7 +196,7 @@ const char * GeoIP_country_name[255] = {"N/A","Asia/Pacific Region","Europe","An
   "Saint Barthelemy","Saint Martin", "Bonaire, Saint Eustatius and Saba", "South Sudan"};
 
 /* Possible continent codes are AF, AS, EU, NA, OC, SA for Africa, Asia, Europe, North America, Oceania
-and South America. */
+and South America. */ 
 
 const char GeoIP_country_continent[255][3] = {
   "--", "AS","EU","EU","AS","AS","NA","NA","EU","AS","NA",
